@@ -1,0 +1,1 @@
+1SELECT col1, _col2 from mi_Tabla wHERE col1 < 20
